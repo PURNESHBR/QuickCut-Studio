@@ -80,7 +80,7 @@ export default function Home() {
        hover:border-pink-500/10 hover:shadow-pink-500/10"
       href="#"
     >
-     {/* <AtomIcon className='h-8 w-8'/> */}
+     
 
       <h2 className="mt-4 text-xl font-bold text-black">Select Story Type</h2>
 
